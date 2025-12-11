@@ -68,6 +68,11 @@ class Lanche
         return $this;
     }
 
+    //Método
+    public function cadastrar()
+    {
+        
+    }
 
 }
 
